@@ -8,6 +8,6 @@
 * Ex Software Engineering Technician @ [L3Harris ASV](https://www.l3harris.com/all-capabilities/asview-control-system) [Nov 2021 - Oct 2022]
 
 #### Contact Details
-You can email me at **JuanDeag.dev**
+You can email me at **https://JuanDeag.dev**
 
 ![](https://komarev.com/ghpvc/?username=JuanDeagDev&color=00FFFF)
